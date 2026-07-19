@@ -27,7 +27,7 @@
 
 ### Запустить из исходников
 ```bash
-git clone https://github.com/Guavvva/Video-Audio-Converter/converter.git
+git clone https://github.com/Guavvva/Video-Audio-Converter.git
 cd converter
 pip install -r requirements.txt
 python converter.py
@@ -99,7 +99,7 @@ A simple program for converting audio and video files. Powered by FFmpeg.
 
 ### Run from source
 ```bash
-git clone https://github.com/Guavvva/Video-Audio-Converter/converter.git
+git clone https://github.com/Guavvva/Video-Audio-Converter.git
 cd converter
 pip install -r requirements.txt
 python converter.py
