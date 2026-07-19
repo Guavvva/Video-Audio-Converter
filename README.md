@@ -28,7 +28,7 @@
 ### Запустить из исходников
 ```bash
 git clone https://github.com/Guavvva/Video-Audio-Converter.git
-cd converter
+cd Video-Audio-Converter
 pip install -r requirements.txt
 python converter.py
 ```
@@ -43,7 +43,7 @@ pyinstaller --onefile --windowed --icon=icon.ico --version-file=version_info.txt
 
 ## Что нужно для работы
 
-- Windows 7/10/11
+- Windows 7/10/11, Любой дистрибутив Linux, macOS (Не тестировалось)
 - [FFmpeg](https://ffmpeg.org/download.html) (должен быть в PATH или установлен отдельно)
 - Python 3.11+ (если запускаете из исходников)
 
@@ -100,7 +100,7 @@ A simple program for converting audio and video files. Powered by FFmpeg.
 ### Run from source
 ```bash
 git clone https://github.com/Guavvva/Video-Audio-Converter.git
-cd converter
+cd Video-Audio-Converter
 pip install -r requirements.txt
 python converter.py
 ```
@@ -115,7 +115,7 @@ pyinstaller --onefile --windowed --icon=icon.ico --version-file=version_info.txt
 
 ## Requirements
 
-- Windows 7/10/11
+- Windows 7/10/11, Any Linux distro, macOS (Not tested)
 - [FFmpeg](https://ffmpeg.org/download.html) (must be in PATH or installed separately)
 - Python 3.11+ (if running from source)
 
