@@ -64,7 +64,7 @@ LANGUAGES = {
             "   (C:\\ffmpeg\\bin)\n"
             "4. Перезапустите программу\n\n"
             "Или установите через менеджер пакетов:\n"
-            "  - Windows (choco): choco install ffmpeg\n"
+            "  - Windows 10 (1809 и новее)/11: winget install --id Gyan.FFmpeg -e\n"
             "  - Ubuntu: sudo apt install ffmpeg\n"
             "  - MacOS: brew install ffmpeg"
         ),
@@ -77,7 +77,7 @@ LANGUAGES = {
             "   (C:\\ffmpeg\\bin)\n"
             "4. Restart the program\n\n"
             "Or install via package manager:\n"
-            "  - Windows (choco): choco install ffmpeg\n"
+            "  - Windows 10 (1809 or newer)/11: winget install --id Gyan.FFmpeg -e\n"
             "  - Ubuntu: sudo apt install ffmpeg\n"
             "  - MacOS: brew install ffmpeg"
         )
